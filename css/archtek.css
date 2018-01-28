@@ -198,7 +198,7 @@ strong {
 /* #Page Structure
 ================================================== */
 #header-container {
-	background: rgb(0,0,0);
+	background: #006400;
 	background: rgba(0,0,0,0.8);
 	/*min-height: 144px;*/
 	left: 50%;
