@@ -351,8 +351,8 @@ span.sf-sub-indicator {
 
 /***** Mobile Menu *****/
 #mobile-menu {
-	background: #111;
-	/*background: none;*/
+	/*background: #111;*/
+	background: #003300;
 	display: none;
 	margin-bottom: 0 !important;
 	text-align: center !important;
