@@ -199,7 +199,7 @@ strong {
 ================================================== */
 #header-container {
 	background: #006400;
-	background: rgba(0,0,0,0.8);
+	background:#006400 ;
 	/*min-height: 144px;*/
 	left: 50%;
 	margin-left: -510px;
